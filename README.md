@@ -1,5 +1,4 @@
 # WeRateDogs - Twitter Archive - Data Wrangling and Analysis Project
-## by (Abiola Adeyinka)
 
 
 ## Dataset
